@@ -11,3 +11,6 @@ Few improvements that can be made:
 3) deepseek llm instead of Llama for better reasoning with knowledge graph for complex data
 4) text preprocessing : here the text is split into fixed chunks, further processing could be done to better splits.
 5) pdf with with images and tables : for this, agentic document extraction could be used for better results e.g. landing.ai
+
+Reference :
+https://huggingface.co/blog/ngxson/make-your-own-rag
