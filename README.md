@@ -13,4 +13,6 @@ Few improvements that can be made:
 5) pdf with with images and tables : for this, agentic document extraction could be used for better results e.g. landing.ai
 
 Reference :
-https://huggingface.co/blog/ngxson/make-your-own-rag
+
+Data - https://www.sebi.gov.in/reports/glossary/mar-2004/glossary-of-capital-market_12317.html
+Code - https://huggingface.co/blog/ngxson/make-your-own-rag
