@@ -15,4 +15,5 @@ Few improvements that can be made:
 Reference :
 
 Data - https://www.sebi.gov.in/reports/glossary/mar-2004/glossary-of-capital-market_12317.html
+
 Code - https://huggingface.co/blog/ngxson/make-your-own-rag
